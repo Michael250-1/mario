@@ -1,0 +1,21 @@
+.header{
+    width:100%;
+    text-align: left;
+}
+.header h3{
+    display: inline;
+}
+.header button{
+    float: right;
+    border-color: 1px solid white;
+}
+#start, #status{
+    font-size: 25px;
+}
+#footer{
+    width:100%;
+    background-color: grey;
+    margin-bottom: 0px;
+    text-align: center;
+
+}
